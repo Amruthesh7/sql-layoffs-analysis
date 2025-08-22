@@ -44,9 +44,7 @@ Execute scripts/02_eda_queries.sql to explore insights.
 
 🏢 Meta, Amazon, and Google were among the top companies with major layoffs.
 
-✨ Future Work
 
-Build a dashboard (Power BI / Tableau) from the cleaned data
 
 📚 Acknowledgements
 
